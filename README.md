@@ -1,5 +1,4 @@
-
-# 💫 About Me:
+<align="center"># 💫 About Me:<>
 <h2 align="center">Hi, I am Peris</h2>
 <h3 align="center">Computer Engineer from Nepal</h3>
 
