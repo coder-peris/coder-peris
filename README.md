@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nrX9SuffixzPC/giphy.gif" width="100"/>
-</div>
-
 # Hi there 👋, I'm Peris Raj KC!
 ### Computer Engineer from Salyan, Nepal
 
@@ -9,9 +5,9 @@
 
 ---
 
-[cite_start]👋 I'm a highly motivated **Computer Engineer**  from Nepal and a recent graduate with a strong foundation in both front-end and back-end web development. My passion lies in crafting robust, user-friendly, and scalable applications that solve real-world problems. I thrive on continuous learning and am always eager to explore new technologies and best practices.
+👋 I'm a highly motivated **Computer Engineer** from Nepal and a recent graduate with a strong foundation in both front-end and back-end web development. My passion lies in crafting robust, user-friendly, and scalable applications that solve real-world problems. I thrive on continuous learning and am always eager to explore new technologies and best practices.
 
-[cite_start]Currently, I'm enhancing my skills as a **Web Development Intern** at Workalaya R&D Pvt Ltd [cite: 4][cite_start], where I've been hands-on in redesigning CRM systems [cite: 4][cite_start], implementing secure authentication [cite: 4][cite_start], and building efficient API endpoints.
+Currently, I'm enhancing my skills as a **Web Development Intern** at Workalaya R&D Pvt Ltd, where I've been hands-on in redesigning CRM systems, implementing secure authentication, and building efficient API endpoints.
 
 ---
 
@@ -54,22 +50,22 @@ Here are the technologies and tools I love to work with:
 Here are some of my recent projects that showcase my skills:
 
 * **[Portfolio Website](https://github.com/coder-peris/Portfolio/)**
-    * [cite_start]A personal portfolio showcasing my skills, projects, experience, and expertise in full-stack web development. This project demonstrates responsive design, modern front-end capabilities, and deployment.
-    * [cite_start]**Live Demo:** [https://portfolio-peris.vercel.app/](https://portfolio-peris.vercel.app/) 
-    * [cite_start]**Technologies:** `Next.js`, `TailwindCSS`, `TypeScript` 
+    * A personal portfolio showcasing my skills, projects, experience, and expertise in full-stack web development. This project demonstrates responsive design, modern front-end capabilities, and deployment.
+    * **Live Demo:** [https://portfolio-peris.vercel.app/](https://portfolio-peris.vercel.app/)
+    * **Technologies:** `Next.js`, `TailwindCSS`, `TypeScript`
 
 * **[Django Blog App](https://github.com/coder-peris/Django-blog_app)**
-    * [cite_start]A blog application built with Django, allowing users to sign up, log in, and post articles. It features user authentication and admin functionalities, demonstrating robust backend development.
-    * [cite_start]**Technologies:** `Django`, `Python`, `SQLite` 
+    * A blog application built with Django, allowing users to sign up, log in, and post articles. It features user authentication and admin functionalities, demonstrating robust backend development.
+    * **Technologies:** `Django`, `Python`, `SQLite`
 
 * **[React JS Blog App](https://github.com/coder-peris/blog_app/)**
-    * [cite_start]A multi-page front-end focused blog application built with React JS, demonstrating efficient state management (Context API, Easy-Peasy-Redux) and external API integration (Axios).
-    * [cite_start]**Live Demo:** [https://coder-peris.github.io/blog_app/](https://coder-peris.github.io/blog_app/) 
-    * [cite_start]**Technologies:** `React JS`, `CSS`, `Axios API`, `Context API`, `Easy-Peasy-Redux` 
+    * A multi-page front-end focused blog application built with React JS, demonstrating efficient state management (Context API, Easy-Peasy-Redux) and external API integration (Axios).
+    * **Live Demo:** [https://coder-peris.github.io/blog_app/](https://coder-peris.github.io/blog_app/)
+    * **Technologies:** `React JS`, `CSS`, `Axios API`, `Context API`, `Easy-Peasy-Redux`
 
 * **[Online Suggestion Box](https://github.com/coder-peris/online_suggestion_box)**
-    * [cite_start]A web application designed to collect suggestions from customers, clients, or students online, showcasing practical data input and management.
-    * [cite_start]**Technologies:** `Django`, `Python`, `HTML`, `CSS`, `SQLite` 
+    * A web application designed to collect suggestions from customers, clients, or students online, showcasing practical data input and management.
+    * **Technologies:** `Django`, `Python`, `HTML`, `CSS`, `SQLite`
 
 ---
 
@@ -85,9 +81,9 @@ Here are some of my recent projects that showcase my skills:
 
 I'm always open to collaborating on exciting projects or discussing new technologies. Feel free to reach out!
 
-* [cite_start]**LinkedIn:** [Peris Raj KC](https://www.linkedin.com/in/coder-peris) 
-* [cite_start]**Email:** periskc@gmail.com 
-* [cite_start]**Portfolio:** [portfolio-peris.vercel.app](https://portfolio-peris.vercel.app/) 
+* **LinkedIn:** [Peris Raj KC](https://www.linkedin.com/in/peris-raj-kc-5a0688242)
+* **Email:** periskc@gmail.com
+* **Portfolio:** [portfolio-peris.vercel.app](https://portfolio-peris.vercel.app/)
 
 ---
 
