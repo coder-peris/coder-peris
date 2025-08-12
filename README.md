@@ -81,7 +81,7 @@ Here are some of my recent projects that showcase my skills:
 
 I'm always open to collaborating on exciting projects or discussing new technologies. Feel free to reach out!
 
-* **LinkedIn:** [Peris Raj KC](https://www.linkedin.com/in/peris-raj-kc-5a0688242)
+* **LinkedIn:** [Peris Raj KC](https://www.linkedin.com/in/coder-peris)
 * **Email:** periskc@gmail.com
 * **Portfolio:** [portfolio-peris.vercel.app](https://portfolio-peris.vercel.app/)
 
