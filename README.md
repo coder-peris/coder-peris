@@ -7,7 +7,7 @@
 
 👋 I'm a highly motivated **Computer Engineer** from Nepal and a recent graduate with a strong foundation in both front-end and back-end web development. My passion lies in crafting robust, user-friendly, and scalable applications that solve real-world problems. I thrive on continuous learning and am always eager to explore new technologies and best practices.
 
-Currently, I'm enhancing my skills as a **Web Development Intern** at Workalaya R&D Pvt Ltd, where I've been hands-on in redesigning CRM systems, implementing secure authentication, and building efficient API endpoints.
+Currently, I'm enhancing my skills as a **Full Stack Developer** at Protozoa Host Pvt. Ltc, where I've been hands-on in building web applications, implementing secure authentication, and building efficient API endpoints.
 
 ---
 
