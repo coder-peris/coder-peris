@@ -5,9 +5,12 @@
 
 ---
 
-👋 I'm a highly motivated **Computer Engineer** from Nepal and a recent graduate with a strong foundation in both front-end and back-end web development. My passion lies in crafting robust, user-friendly, and scalable applications that solve real-world problems. I thrive on continuous learning and am always eager to explore new technologies and best practices.
+I'm a **Full Stack Developer** from Nepal with a strong foundation in both front-end and back-end web development. I enjoy building **robust, scalable, and user-friendly applications** that solve real-world problems.
 
-Currently, I'm enhancing my skills as a **Full Stack Developer** at Protozoa Host Pvt. Ltd, where I've been hands-on in building web applications, implementing secure authentication, and building efficient API endpoints.
+Currently, I work at **IGC Business Holding**, focusing on developing efficient APIs, implementing secure authentication, and delivering full-featured web applications.  
+
+I’m passionate about **learning new technologies**, optimizing code, and following best practices to create impactful software.
+
 
 ---
 
